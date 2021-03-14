@@ -55,14 +55,12 @@ $ git clone https://github.com/nazareva/BL4CK
 ```
 ### And Cr4ck this script
 ```bash
-$ cd Cr4ck
+$ cd BL4CK
 $ bash setup.sh
-$ python Cr4ck.py
+$ python BL4CK.py
 ```
 
-### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
 
 ##### MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Yayan-XD) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/moch_xd)
