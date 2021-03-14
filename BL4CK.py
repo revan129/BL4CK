@@ -24,7 +24,7 @@ def kontol():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD Recode: Revan
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/nazareva
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
 \x1b[1;94m────────────────────────────────────────────────────""")
@@ -37,7 +37,7 @@ def jembut():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Revab
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : YayanXD Recode: Revan
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/nazareva
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
 \x1b[1;94m────────────────────────────────────────────────────""")
@@ -48,7 +48,7 @@ def nazareva():
        os.system("python BL4CK.py")
     else:
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
-def Revan():
+def revan():
     time.sleep(0.1)
     print("\033[97m [\033[96m01\033[97m] Start  Crack ID")
     print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
@@ -101,7 +101,7 @@ def Revan():
                   os.system("xdg-open https://youtu.be/72zvkSbVPOI") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookies Error")
-                  os.system('python Cr4ck.py')
+                  os.system('python BL4CK.py')
          def login(username,password,cek=False):
              global die,check,result,count
              b = "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32"
