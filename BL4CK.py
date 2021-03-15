@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#Males gw encrypt Tod jika mau recode, recode aja
-#Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
-#Code by YayanXD 
-#Created 05-07-2020
 #My facebook (https://www.facebook.com/KM39453)
 
 import os,sys,re,time,json,random,requests
@@ -28,11 +24,9 @@ def kontol():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : Revan
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/nazareva
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] WhatsApp : 083108270912
-\x1b[1;94m────────────────────────────────────────────────────""")
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/1836274989\x1b[1;94m────────────────────────────────────────────────────""")
 
 def jembut():
     print("""\n\x1b[1;91m      ██████╗██████╗ ██╗  ██╗ ██████╗██╗  ██╗
@@ -45,7 +39,6 @@ def jembut():
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Revan
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/nazareva
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] WhatsApp : 083108270912
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
@@ -107,7 +100,7 @@ def moch_yayan():
                   os.system("xdg-open https://youtu.be/72zvkSbVPOI") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookies Error")
-                  os.system('python BL4CK.py')
+                  os.system('python Cr4ck.py')
          def login(username,password,cek=False):
              global die,check,result,count
              b = "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32"
@@ -216,7 +209,7 @@ def moch_yayan():
                    aahh('\033[1;97m [\033[1;92m02\033[1;97m] Crack From ID Link Posting')
                    aahh('\033[1;97m [\033[1;92m03\033[1;97m] Crack From ID Search Name')
                    aahh('\033[1;97m [\033[1;92m04\033[1;97m] Crack From ID Group ')
-                   aahh('\033[1;97m [\033[1;92m05\033[1;97m] Crack From ID Publick ')
+                   aahh('\033[1;97m [\033[1;92m05\033[1;97m] Crack From ID Public ')
                    aahh('\033[1;97m [\033[1;92m06\033[1;97m] View Crack Results')
                    aahh('\033[1;97m [\033[1;92m07\033[1;97m] Delete Cookies')
                    aahh('\033[1;97m [\033[1;91m00\033[1;97m] Exit')
